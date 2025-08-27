@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-Sou um desenvolvedor web em transição de carreira, apaixonado por transformar ideias em soluções funcionais com código. Atualmente, estou focado em aprimorar minhas habilidades em **JavaScript, Node.js e React**, sempre buscando aprender novos conceitos e as melhores práticas de programação. Estou ativamente em busca da minha primeira oportunidade para aplicar meus conhecimentos e contribuir em projetos desafiadores.
+Em busca da minha primeira oportunidade como Desenvolvedor Web, dedico-me ao estudo e prática de JavaScript, Node.js e React. Acredito no aprendizado contínuo, aprimorando minhas habilidades em algoritmos e estruturas de dados para enfrentar desafios e contribuir com a comunidade.
 
 ---
 
