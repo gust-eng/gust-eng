@@ -1,8 +1,12 @@
 <h1 align="center">Olá, eu sou Gustavo! 👋</h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
+</div>
+
 ### Sobre mim
 
-Em busca da minha primeira oportunidade como Desenvolvedor Web, dedico-me ao estudo e prática de JavaScript, Node.js e React. Acredito no aprendizado contínuo, aprimorando minhas habilidades em algoritmos e estruturas de dados para enfrentar desafios e contribuir com a comunidade.
+Em busca da minha primeira oportunidade como Desenvolvedor, dedico-me ao estudo e prática de JavaScript, Node.js e React. Acredito no aprendizado contínuo, aprimorando minhas habilidades em algoritmos e estruturas de dados para enfrentar desafios e contribuir com a comunidade.
 
 ---
 
