@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Gustavo! 👋</h1>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/715f1271-dffc-4bbd-87bd-76a73144ed32" alt="Animated icon 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/715f1271-dffc-4bbd-87bd-76a73144ed32" alt="Animated icon 2" width="600"/>
 </div>
 
 ### Sobre mim
