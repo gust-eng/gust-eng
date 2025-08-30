@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou Gustavo! 👋</h1>
+![Animated icon 2](https://github.com/user-attachments/assets/5ad5b079-cd28-4923-9ff4-06c1d48123ac)<h1 align="center">Olá, eu sou Gustavo! 👋</h1>
 
 <div align="center">
-  <img src="https://pin.it/i/38hSrZ5kV/" width="400" alt="Coding GIF">
+ ![Animated icon 2](https://github.com/user-attachments/assets/715f1271-dffc-4bbd-87bd-76a73144ed32)
 </div>
 
 ### Sobre mim
