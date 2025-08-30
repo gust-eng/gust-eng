@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Gustavo! 👋</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
+  <img src="https://pin.it/i/38hSrZ5kV/" width="400" alt="Coding GIF">
 </div>
 
 ### Sobre mim
