@@ -20,12 +20,13 @@ Em busca da minha primeira oportunidade como Desenvolvedor, dedico-me ao estudo 
   <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
 </p>
-## 📚 Atualmente estudando  
-- 🟨 **JavaScript** – lógica, boas práticas e ES6+  
-- ⚛️ **React** – construção de interfaces modernas e componentização  
-- 🟢 **Node.js** – APIs e desenvolvimento back-end  
-- 🗄️ **Banco de Dados** – MySQL e conceitos de bancos relacionais  
-- 🌐 **HTML & CSS** – estruturação e estilização de páginas web  
+
+ 📚 Atualmente estudando <br>    
+- 🟨 JavaScript – lógica, boas práticas <br>  
+- ⚛️ React – construção de interfaces modernas e componentização  <br>  
+- 🟢 Node.js – APIs e desenvolvimento back-end  <br>  
+- 🗄️ Banco de Dados – MySQL e conceitos de bancos relacionais  <br>  
+- 🌐 HTML & CSS – estruturação e estilização de páginas web  <br>  
 
 ---
 
@@ -52,5 +53,5 @@ Em busca da minha primeira oportunidade como Desenvolvedor, dedico-me ao estudo 
 
 ## 🌍 Onde me encontrar  
 - 💼 [LinkedIn](#)  
-- 📂 [Portfólio](#)  
-- ✉️ **seuemail@email.com**
+- 📱 [Whatsapp]((11) 94342-5817)  
+- ✉️ **gustavolana232@email.com**
