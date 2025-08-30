@@ -1,6 +1,7 @@
 <h1 align="center">Olá, eu sou Gustavo! 👋</h1>
-
- ![Animated icon 2](https://github.com/user-attachments/assets/715f1271-dffc-4bbd-87bd-76a73144ed32)
+<div>
+  ![Animated icon 2](https://github.com/user-attachments/assets/715f1271-dffc-4bbd-87bd-76a73144ed32)
+</div>
 
 ### Sobre mim
 
