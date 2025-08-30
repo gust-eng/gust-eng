@@ -53,5 +53,5 @@ Em busca da minha primeira oportunidade como Desenvolvedor, dedico-me ao estudo 
 
 ## 🌍 Onde me encontrar  
 - 💼 [LinkedIn](#)  
-- 📱 [Whatsapp]((11) 94342-5817)  
+- 📱 [Whatsapp]((https://wa.me/55 11 94342-5817)  
 - ✉️ **gustavolana232@email.com**
